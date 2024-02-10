@@ -6,3 +6,7 @@ day() {
 
 day
 echo Exit status of function - $?
+
+echo Monday
+exit 200
+echo Tuesday
