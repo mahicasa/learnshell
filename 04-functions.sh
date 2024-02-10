@@ -23,7 +23,7 @@ sample_sum 100 200
 # Inside main program all special vars (0-n, *, #) are which are passed to script are not accessible inside functions.
 
 sample2() {
-  echo Hello1
+  echo Welcome to Wien
   return
   echo Hello2
 }
