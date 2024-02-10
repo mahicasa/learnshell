@@ -3,3 +3,5 @@ day() {
   return 100
   echo Sunday
 }
+
+day
