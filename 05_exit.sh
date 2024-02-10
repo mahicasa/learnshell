@@ -5,3 +5,4 @@ day() {
 }
 
 day
+echo Exit status of function - $?
