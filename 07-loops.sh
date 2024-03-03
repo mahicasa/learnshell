@@ -32,7 +32,7 @@ done
 echo "### Break Example"
 i=10
 while [ "$i" -gt 0 ]; do
-  echo Hello IPTV
+  echo Hello SmartIPTV
   i=$(($i-1))
   break
   echo Hello Universe
@@ -41,7 +41,7 @@ done
 echo "### Continue Example"
 i=10
 while [ "$i" -gt 0 ]; do
-  echo Hello IPTV
+  echo Hello SmartIPTV
   i=$(($i-1))
   continue
   echo Hello Universe
